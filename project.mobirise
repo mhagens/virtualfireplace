@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-01-30_1109",
+    "name": "Site-01-30_11093",
     "currentPage": "index.html",
     "theme": {
       "name": "blackamp",
@@ -31,7 +31,10 @@
     "versionFirst": "4.6.3",
     "uniqCompNum": 53,
     "versionPublish": "4.6.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
